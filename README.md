@@ -1,5 +1,7 @@
 # Real-Time Face Recognition using FaceNet and OpenCV
 
+<img src="screenshots/face_recognition.gif" width="640" height="360">
+
 ## Overview
 
 This Python script enables real-time face recognition using the FaceNet model and OpenCV. It allows you to detect and recognize faces in a live video stream from a webcam. The script utilizes a pre-trained FaceNet model for facial feature extraction and a face detection model from OpenCV's deep neural networks (DNN) for face localization.
